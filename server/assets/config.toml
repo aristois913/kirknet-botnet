@@ -1,0 +1,9 @@
+[kirknet]
+
+[kirknet.server]
+protocol = "tcp"
+port = ":666"
+
+[kirknet.spreader]
+protocol = "tcp"
+port = ":9999"
